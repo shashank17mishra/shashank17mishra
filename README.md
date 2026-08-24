@@ -50,7 +50,6 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
 
 ### 🔥 TERMINAL STATS // ACTIVITY HEATMAP
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank17mishra&theme=tokyonight&hide_border=true&background=080808&stroke=00A7D1&ring=ffa657&fire=ffa657&currStreakLabel=00A7D1" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank17mishra&theme=tokyo-night&bg_color=080808&color=00A7D1&line=ffa657&point=ffffff&hide_border=true" width="95%"/>
 
