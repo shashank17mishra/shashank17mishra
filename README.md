@@ -112,6 +112,55 @@
 
 
 
+<!-- ========================================== -->
+<!-- POPULAR REPOSITORIES                       -->
+<!-- ========================================== -->
+
+<h2>Selected Projects</h2>
+
+<p>
+  Things I've built, explored, and learned from.
+  <a href="https://github.com/shashank17mishra?tab=repositories">View all repositories ↗</a>
+</p>
+
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td width="42%" valign="middle">
+      <h3><a href="https://github.com/shashank17mishra?tab=repositories">01. Data Science &amp; AI</a></h3>
+      <p><sub>Data analysis, machine learning, and practical AI experiments.</sub></p>
+    </td>
+    <td width="16%" rowspan="2" align="center" valign="middle">
+      <img
+        src="https://i.pinimg.com/1200x/35/60/66/356066b08ec1fd8f97bed83002ef3703.jpg"
+        width="120"
+        alt="Repository section illustration"
+      />
+    </td>
+    <td width="42%" valign="middle">
+      <h3><a href="https://github.com/shashank17mishra?tab=repositories">02. Full-Stack Development</a></h3>
+      <p><sub>Web applications, APIs, and digital product engineering.</sub></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="42%" valign="middle">
+      <h3><a href="https://github.com/shashank17mishra?tab=repositories">03. Automation &amp; Tools</a></h3>
+      <p><sub>Python scripts, developer workflows, and useful automations.</sub></p>
+    </td>
+    <td width="42%" valign="middle">
+      <h3><a href="https://github.com/shashank17mishra?tab=repositories">04. Experiments &amp; Learning</a></h3>
+      <p><sub>Side projects, technical explorations, and open-source learning.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shashank17mishra?tab=repositories">Explore all repositories →</a>
+</p>
+
+
+
+
 
 <!-- ========================================== -->
 <!-- BOX 00: WINDOW // 00 [SPIDER-MAN AGILITY]   -->
