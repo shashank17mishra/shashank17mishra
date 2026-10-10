@@ -502,19 +502,19 @@
   </tr>
 </table>
 
-
-
-
-<br/>
-
-
 <!-- ================= CLOSING BANNER ================= -->
 <div align="center">
 
-<!-- SECOND-LAST IMAGE: FULL HORIZONTAL WIDTH -->
-<img src="https://i.pinimg.com/736x/35/fc/f5/35fcf5fc3db715915ba4a38eb7a3e6a8.jpg"
-     width="100%" height="30%"
-     alt="Closing Banner"/>
+
+<!-- SECOND-LAST IMAGE: TOP 30% CROP -->
+<div align="center">
+  <img
+    src="https://i.pinimg.com/736x/35/fc/f5/35fcf5fc3db715915ba4a38eb7a3e6a8.jpg"
+    width="100%"
+    alt="Closing Banner"
+  />
+</div>
+
 
 <br/><br/>
 <div align="center">
