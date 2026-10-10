@@ -3,19 +3,6 @@
 <!-- ================= HERO / BANNER ================= -->
 <img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" width="100%" height="220" style="object-fit:cover; border-radius:14px;" alt="banner"/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&duration=3000&pause=900&color=00A7D1&center=true&vCenter=true&width=650&lines=SHASHANK+MISHRA;DATA+ANALYST+%2F%2F+FULL-STACK+DEV;TURNING+CSVs+INTO+INSIGHT;BUILDING+PIXELS+%26+PIPELINES" alt="Typing SVG" />
-
-<code>STATUS → translating complex datasets into actionable insight & modern digital experiences</code>
-
-<br/><br/>
-
-<a href="mailto:shashank17oct2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080808?style=for-the-badge&logo=gmail&logoColor=00A7D1&labelColor=080808"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=00A7D1&labelColor=080808"/></a>
-<a href="https://github.com/shashank17mishra"><img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=00A7D1&labelColor=080808"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:00A7D1&height=3&width=800" />
 
 </div>
 
@@ -26,13 +13,42 @@
 <tr>
 <td width="55%" valign="middle">
 
-### 🎛️ CONTROL PLANE // ABOUT ME
+###  ABOUT ME
 
-Results-driven **Data Analyst** & **Full-Stack Developer**, currently pursuing a B.Tech in Computer Science (Data Science).
 
-Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping tools like a Resume Builder Web App (Flask + MySQL) — I live at the intersection of **logic, data, and design**.
+<h2 align="left">Shashank Mishra</h2>
 
-> *"Turning raw data into production code, and random CSV files into deep existential insights."*
+<p align="left">
+  Data Science Engineer · AI/ML · Software Development
+</p>
+
+<p align="left">
+  Building intelligent systems, data-driven applications, and
+  AI-powered automations.
+  Interested in turning complex ideas into practical software.
+</p>
+
+<br/>
+
+<p align="left">
+  <b>Areas of Interest</b><br/>
+  Artificial Intelligence & Machine Learning · Data Science<br/>
+  Web Development · Software Engineering · AI Automation · AI Tools
+</p>
+
+<br/>
+
+<p align="left">
+  <b>Current mindset</b><br/>
+  Learn deeply. Build thoughtfully. Automate intelligently.
+</p>
+
+<br/>
+
+<p align="left">
+  <i>"Less hype. More engineering."</i>
+</p>
+
 
 </td>
 <td width="45%" align="center">
@@ -41,27 +57,38 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
 </tr>
 </table>
 
-<br/>
-
-
-
-
-<br/>
 
 <!-- ================= TECH STACK // SYSTEM LOOP ================= -->
 
-<br/><br/>
+
 
 `Python` `SQL` `Power BI` `Pandas` `React` `Flask` `Git` `Docker` `Linux`
 
-</td>
 
 <td width="40%" align="center">
 
-<img width="100%" height="100" alt="image" src="https://github.com/user-attachments/assets/b8081066-cdb2-4393-9651-d9b43b2ce4cd" />
+  <table>
+    <tr>
+      <td width="25%" align="center" valign="middle">
+        <img
+          src="https://github.com/user-attachments/assets/ef02d242-43fd-4561-9a4a-268cb76a0042"
+          alt="Git commit meme"
+          width="100%" height="100%"
+        />
+      </td>
+      <td width="75%" align="center" valign="middle">
+        <img
+          src="cropped_20_percent_top_bottom.png"
+          alt="Study banner"
+          width="100%"
+        />
+      </td>
+         </tr>
+  </table>
 
-     
 </td>
+
+
 </tr>
 </table>
 
@@ -72,30 +99,8 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
 
 `DATA` • `INSIGHT` • `DESIGN` • `AUTOMATION` • `ETL` • `DASHBOARDS` • `CODE` • `REPEAT`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A7D1,100:080808&height=3&width=800" />
-
 </div>
 
-<br/>
-
-
-<br/>
-
-<!-- ================= CLOSING BANNER ================= -->
-<div align="center">
-
-<!-- SECOND-LAST IMAGE: FULL HORIZONTAL WIDTH -->
-<img src="https://i.pinimg.com/736x/35/fc/f5/35fcf5fc3db715915ba4a38eb7a3e6a8.jpg"
-     width="100%"
-     alt="Closing Banner"/>
-
-<br/><br/>
-
-### 🔗 COMM LINK // CONNECT
-
-<a href="mailto:shashank17oct2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808"/>
-</a>
 
 <a href="https://linkedin.com/in/shashank-mishra-a0462b267/">
 <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808"/>
@@ -146,105 +151,42 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
 
 <br/>
 
-<!-- ========================================== -->
-<!-- BOX 01: [01] // IDENTITY_SPECIFICATION     -->
-<!-- ========================================== -->
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <code>● ● ● &nbsp; [01] // IDENTITY_SPECIFICATION</code>
-    </td>
-    <td align="right">
-      <code>GEN_Z_SYS // LEVEL_99</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/SYS-LEVEL__99-00A7D1?style=flat-square&labelColor=0d1117" alt="Level 99"/>
-        <img src="https://img.shields.io/badge/ARCHITECT-PRO-30363d?style=flat-square&labelColor=0d1117" alt="Architect Pro"/>
-        <img src="https://img.shields.io/badge/FOUNDER-CREDIBLE_CREATE-30363d?style=flat-square&labelColor=0d1117" alt="Founder"/>
-        <img src="https://img.shields.io/badge/LEAD-GDG_BNCET-30363d?style=flat-square&labelColor=0d1117" alt="GDG Lead"/>
-      </p>
-      <h2>ARCHITECTING AT TERMINAL VELOCITY.</h2>
-      <p><i>// FULL-STACK SOFTWARE SYSTEMS • GENERATIVE AI • AUTONOMOUS WORKFLOWS</i></p>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li><b>ROLE //</b> Full-Stack Software Engineer &amp; AI/ML Systems Specialist</li>
-        <li><b>FOUNDER //</b> Co-Founder &amp; Technical Architect @ <a href="https://crediblecreate.com" target="_blank"><b>Credible Create</b></a></li>
-        <li><b>COMMUNITY //</b> Data Science &amp; Machine Learning Division Lead @ <b>GDG BNCET</b></li>
-        <li><b>DELIVERY //</b> 24+ Production Web Applications, Platforms &amp; Scraper Bots Shipped</li>
-        <li><b>DOMAINS //</b> Modern Web Development, Data Science, AI/ML, Automation Pipelines</li>
-        <li><b>CREED //</b> <i>Precision architecture. Minimal friction. High business velocity.</i></li>
-      </ul>
-      <br/>
-      <h4><code>// FOCUS_DIRECTIVES &nbsp; [4 / 4 ACTIVE]</code></h4>
-      - [x] ⚡ <b>High-Throughput Web Systems</b><br/>
-      - [x] 🤖 <b>Generative AI &amp; Agentic Pipelines</b><br/>
-      - [x] 📊 <b>Predictive Intelligence &amp; EDA</b><br/>
-      - [x] 🚀 <b>Venture Scaling @ Credible Create</b>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <code>● ● ● DEV_AVATAR // SPIDER_GEN_Z &nbsp; [ONLINE]</code><br/><br/>
-      <a href="https://shashank17mishra.github.io/resume-website/" target="_blank">
-        <img src="https://files.catbox.moe/x6luqe.jpg" width="220" alt="Shashank Mishra — Cybernetic Dev Avatar" />
-      </a>
-      <br/><br/>
-      <code>[SPIDER_AGILITY // 100%] &bull; [COMPUTE // MAX] &bull; [LVL // 99]</code><br/>
-      <small><i>"With great compute comes great responsibility."</i></small>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- ========================================== -->
 <!-- BOX 02: [02] // IMPACT_METRICS             -->
 <!-- ========================================== -->
 
-<table width="100%">
-  <tr align="center">
-    <td width="25%" valign="top">
-      <br/>
-      <code>[METRIC // 01]</code>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="20%" align="left" valign="middle">
+      <code>[01]</code><br/>
       <h2>24+</h2>
       <b>DEPLOYED APPS</b><br/>
       <sub>Shipped worldwide</sub>
-      <br/><br/>
     </td>
-    <td width="25%" valign="top">
-      <br/>
-      <code>[METRIC // 02]</code>
+    <td width="20%" align="left" valign="middle">
+      <code>[02]</code><br/>
       <h2>04+</h2>
       <b>YEARS EXP</b><br/>
       <sub>Full-stack &amp; AI/ML</sub>
-      <br/><br/>
     </td>
-    <td width="25%" valign="top">
-      <br/>
-      <code>[METRIC // 03]</code>
+    <td width="20%" align="left" valign="middle">
+      <code>[03]</code><br/>
       <h2>FOUNDER</h2>
       <b>CREDIBLE CREATE</b><br/>
       <sub>Digital product studio</sub>
-      <br/><br/>
     </td>
-    <td width="25%" valign="top">
-      <br/>
-      <code>[METRIC // 04]</code>
+    <td width="20%" align="left" valign="middle">
+      <code>[04]</code><br/>
       <h2>LEAD</h2>
       <b>GDG BNCET</b><br/>
       <sub>Data Science Division</sub>
-      <br/><br/>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <img width="100%" alt="Profile illustration" src="https://github.com/user-attachments/assets/be3106fc-f1f0-4eb5-bbfd-7daec25e601c" />
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ========================================== -->
@@ -342,7 +284,7 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
         <img src="https://shashank17mishra.github.io/resume-website/credible%20create.png" width="100%" alt="Credible Create" />
       </a>
       <br/><br/>
-      <h3><a href="https://crediblecreate.com">CREDIBLE CREATE ↗</a></h3>
+      <h3><a href="https://crediblecreate.com">CREDIBLE CREATE </a></h3>
       <b>CO-FOUNDER &amp; TECHNICAL ARCHITECT</b>
       <ul>
         <li>Digital product studio engineering high-speed web platforms.</li>
@@ -361,7 +303,7 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
         <img src="https://shashank17mishra.github.io/resume-website/morphy.png" width="100%" alt="Morphy Chess Academy" />
       </a>
       <br/><br/>
-      <h3><a href="https://morphychess.com">MORPHY CHESS ACADEMY ↗</a></h3>
+      <h3><a href="https://morphychess.com">MORPHY CHESS ACADEMY </a></h3>
       <b>LEAD FULL-STACK DEVELOPER</b>
       <ul>
         <li>Sports academy platform with real-time class reservation engine.</li>
@@ -454,75 +396,78 @@ Leading the Data Science team at **GDG BNCET**, mentoring students, and shipping
 
 <br/>
 
-<!-- ========================================== -->
-<!-- BOX 07: [07] // DISPATCH_CONSOLE           -->
-<!-- ========================================== -->
 
-<table width="100%">
-<tr>
-<th colspan="2" align="left"><code>● ● ● &nbsp; [07] // DISPATCH_CONSOLE</code></th>
-<th align="right"><code>READY_TO_COLLABORATE // LEVEL_99</code></th>
-</tr>
-<tr>
-<td colspan="2" width="60%" valign="top">
-<br/>
-<b>✉️ &nbsp; DIRECT INBOX // EMAIL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>[SLA // &lt;24H]</code>
-<h3><a href="mailto:shashank17oct2003@gmail.com">shashank17oct2003@gmail.com</a></h3>
-<p><sub>Direct line for enterprise software architectures, AI advisory &amp; venture co-founding</sub></p>
-<p align="right"><a href="mailto:shashank17oct2003@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL_↗-0d1117?style=flat-square&logo=gmail&logoColor=ffa657&labelColor=0d1117&color=30363d" alt="Send Email" /></a></p>
-</td>
-<td width="40%" valign="top">
-<br/>
-<b>🟢 &nbsp; AVAILABILITY // LOG</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>[LIVE_STATUS]</code>
-<h3>ONLINE // ACCEPTING CLIENTS</h3>
-<p>
-<code>LOC //</code> &nbsp; INDIA [UTC +5:30]<br/>
-<code>MODELS //</code> &nbsp; REMOTE / CONTRACT / ADVISORY
-</p>
-</td>
-</tr>
-<tr>
-<td width="33.3%" valign="top">
-<br/>
-<img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00A7D1" alt="LinkedIn" /> &nbsp; <code>[NETWORK]</code><br/><br/>
-<b>PROFESSIONAL // LINKEDIN</b>
-<h3><a href="https://linkedin.com/in/shashank-mishra-a0462b267/" target="_blank">Shashank Mishra</a></h3>
-<p><sub>AI &amp; software engineering leadership community</sub></p>
-<p align="right"><a href="https://linkedin.com/in/shashank-mishra-a0462b267/" target="_blank"><img src="https://img.shields.io/badge/CONNECT_↗-0d1117?style=flat-square&logoColor=00A7D1&labelColor=0d1117&color=30363d" alt="Connect" /></a></p>
-</td>
-<td width="33.3%" valign="top">
-<br/>
-<img src="https://img.shields.io/badge/STUDIO-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00A7D1" alt="Studio" /> &nbsp; <code>[STUDIO]</code><br/><br/>
-<b>CO-FOUNDER DESK // VENTURE</b>
-<h3><a href="https://crediblecreate.com" target="_blank">Credible Create</a></h3>
-<p><sub>High-velocity digital product &amp; engineering studio</sub></p>
-<p align="right"><a href="https://crediblecreate.com" target="_blank"><img src="https://img.shields.io/badge/VISIT_STUDIO_↗-0d1117?style=flat-square&logoColor=00A7D1&labelColor=0d1117&color=30363d" alt="Visit Studio" /></a></p>
-</td>
-<td width="33.3%" valign="top">
-<br/>
-<img src="https://img.shields.io/badge/ARCHIVE-0d1117?style=flat-square&logo=googlechrome&logoColor=00A7D1" alt="Archive" /> &nbsp; <code>[ARCHIVE]</code><br/><br/>
-<b>PORTFOLIO // SHOWCASE</b>
-<h3><a href="https://shashank17mishra.github.io/resume-website/" target="_blank">Interactive Resume</a></h3>
-<p><sub>24+ production deployments &amp; interactive demos</sub></p>
-<p align="right"><a href="https://shashank17mishra.github.io/resume-website/" target="_blank"><img src="https://img.shields.io/badge/EXPLORE_↗-0d1117?style=flat-square&logoColor=00A7D1&labelColor=0d1117&color=30363d" alt="Explore" /></a></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="left">
-<b>DISPATCH TELEMETRY // REAL-TIME METRICS</b><br/>
-<sub>Monitored 24/7 &bull; Direct routing &bull; Rapid response pipelines</sub>
-</td>
-<td align="right">
-<a href="https://github.com/shashank17mishra"><img src="https://komarev.com/ghpvc/?username=shashank17mishra&color=00A7D1&style=flat-square&label=PAGE_VIEWS" alt="Page Views" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00A7D1?style=flat-square&labelColor=0d1117" alt="Operational" />
-</td>
-</tr>
+
+<!-- LET'S CONNECT -->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <!-- ROW 1: INTRO + IMAGE -->
+  <tr>
+    <td width="70%" valign="middle">
+      <h2>Let's build something meaningful.</h2>
+      <p>Open to interesting projects, collaborations, AI solutions, and building products that make a difference.</p>
+      <sub>Based in India · Available Worldwide</sub>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://i.pinimg.com/1200x/f1/69/19/f1691903f3f38cab047a8da706e23810.jpg" width="180" alt="Creative illustration"/>
+    </td>
+  </tr>
+
+  <!-- ROW 2: CONTACT LINKS -->
+  <tr>
+    <td colspan="2">
+      <hr/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <p><sub>01 · EMAIL</sub></p>
+      <b><a href="mailto:shashank17oct2003@gmail.com">Email me </a></b><br/>
+      <sub>Projects &amp; inquiries</sub>
+    </td>
+    <td width="70%" valign="top">
+      <p><sub>02 · LINKEDIN</sub></p>
+      <b><a href="https://linkedin.com/in/shashank-mishra-a0462b267/">LinkedIn </a></b><br/>
+      <sub>Professional network</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%" valign="top">
+      <p><sub>03 · STUDIO</sub></p>
+      <b><a href="https://crediblecreate.com">Credible Create </a></b><br/>
+      <sub>Digital products &amp; engineering</sub>
+    </td>
+    <td width="30%" valign="top">
+      <p><sub>04 · PORTFOLIO</sub></p>
+      <b><a href="https://shashank17mishra.github.io/resume-website/">Explore my work </a></b><br/>
+      <sub>Projects &amp; experience</sub>
+    </td>
+  </tr>
+
+  <!-- ROW 3: FOOTER -->
+  <tr>
+    <td colspan="2" align="center">
+      <hr/>
+      <sub>Thanks for stopping by. Let's connect together :)</sub>
+    </td>
+  </tr>
 </table>
 
+
+
+
 <br/>
 
+
+<!-- ================= CLOSING BANNER ================= -->
+<div align="center">
+
+<!-- SECOND-LAST IMAGE: FULL HORIZONTAL WIDTH -->
+<img src="https://i.pinimg.com/736x/35/fc/f5/35fcf5fc3db715915ba4a38eb7a3e6a8.jpg"
+     width="100%" height="30%"
+     alt="Closing Banner"/>
+
+<br/><br/>
 <div align="center">
   <sub>Precision Editorial Bento Profile &bull; <a href="https://github.com/shashank17mishra">@shashank17mishra</a> &bull; © 2026 Shashank Mishra</sub>
 </div>
-
