@@ -352,7 +352,7 @@
         <img src="https://shashank17mishra.github.io/resume-website/morphy.png" width="100%" alt="Morphy Chess Academy" />
       </a>
       <br/><br/>
-      <h3><a href="https://morphychess.com">MORPHY CHESS ACADEMY </a></h3>
+      <h3><a href="https://morphychessacademy.com">MORPHY CHESS ACADEMY </a></h3>
       <b>LEAD FULL-STACK DEVELOPER</b>
       <ul>
         <li>Sports academy platform with real-time class reservation engine.</li>
